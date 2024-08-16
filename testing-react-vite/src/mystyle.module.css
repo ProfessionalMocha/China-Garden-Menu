@@ -1,0 +1,226 @@
+/*--------------Section title/subtitle Related CSS---------------*/
+
+
+.sectionCardContainer{
+}
+
+.sectionSubtitles {
+  color: crimson;
+}
+
+.sectionTitleWrapper {
+  border-radius: .5rem;
+  border-color: red;
+  border-width: 2.5px;
+  border-style: solid;
+  width: 50%;
+  margin: auto;
+  margin-top: -1.5px;
+}
+
+.sectionTitle {
+  margin-bottom: 0%;
+  text-align: center;
+}
+
+.sectionTitleOnly {
+  text-align: center;
+}
+
+.sectionMiddleSubtitle {
+  margin: 0%;
+  padding: 0%;
+  text-align: center;
+}
+
+.sectionLastSubtitle {
+  text-align: center;
+  padding-top: 0%;
+  margin-top: 0%;
+}
+
+.sectionWrapper {
+  margin-top: 2.5%;
+}
+
+/*--------------------Menu Item related CSS --------------------------*/
+
+.cardDisplay {
+  display: inline-flex;
+}
+
+.cardOutterWraper {
+  background-color: whitesmoke;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  margin-top: -1px;
+  margin-left: -1px;
+  height: 4.5rem;
+}
+
+.cardOutterWraperSizeNormal {
+  width: 24.945%;
+}
+
+@media screen and (max-width: 1000px) {
+  .cardOutterWraperSizeNormal {
+    width: 49.875%;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .cardOutterWraperSizeNormal {
+    width: 100%;
+  }
+}
+
+.cardOutterWraperSizeLarge {
+  width: 49.875%;
+}
+
+@media screen and (max-width: 1000px) {
+  .cardOutterWraperSizeLarge {
+    width: 100%;
+  }
+}
+
+.itemSpicy {
+  color: crimson;
+}
+
+.itemNormal {
+  color: black;
+}
+
+.cardIndexWrapper {
+  background-color: lightGray;
+  width: 15%;
+  text-align: center;
+  border-right-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+.cardItemIndex {
+  font-size: x-large;
+  margin: auto;
+}
+
+.cardInnerWrapper {
+  width: 85%;
+}
+
+.cardItemName {
+  width: 65%;
+  margin-left: 10px;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-size: large;
+}
+
+.cardItemPrice {
+  width: 12.5%;
+  margin-left: 10px;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+/*-------------------- General Information related CSS ------------------*/
+
+.informationMainWrapper {
+  background-color: lightgray;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+
+  background-image: url("assets/China-garden-image.png");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: .5rem;
+}
+
+.informationCardWrapper {
+  width: 47.43%;
+  margin: .5rem;
+  display: inline-block;
+  position: relative;
+}
+
+@media screen and (max-width: 750px) {
+  .informationCardWrapper {
+    width: 100%;
+  }
+}
+
+.informationStyle {
+  color: white;
+}
+
+.informationTitle {
+  color: red;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+.informationInformation {
+  text-align: center;
+  margin: .5rem;
+  padding: .5rem;
+}
+
+/* ------------------- Navigations related CSS --------------------- */
+
+.navBar {
+  background-color: whitesmoke;
+  position: sticky;
+  padding-bottom: .5rem;
+}
+
+.navWrapper {
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.navBrand {
+  font-size: 2.5rem;
+  display: inline-block;
+  color: crimson;
+  width: 100%;
+}
+
+.navButton {
+  background-color: lightgray;
+  color: black;
+  width: 5rem;
+  height: 100%;
+}
+
+.navAvailability {
+  font-weight: normal;
+  font-size: 3.5vw;
+  padding: 0%;
+  margin: 0%;
+  width: 100%
+}
+
+.notAvailable {
+  color: red;
+}
+
+@media screen and (min-width: 1200px) {
+
+  .notAvailable,
+  .available {
+    font-size: 2.5rem;
+  }
+}
+
+.available {
+  color: green;
+}

@@ -1,0 +1,1991 @@
+{
+    "lunch": [
+        {
+            "id": 1,
+            "name": "Beef / Shrimp / Roast Pork / Chicken Chow Mein",
+            "prices": [
+                8.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 2,
+            "name": "Pepper Steak with Onion",
+            "prices": [
+                8.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 3,
+            "name": "Shrimp and Lobster Sauce",
+            "prices": [
+                8.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 4,
+            "name": "Sweet & Sour Chicken / Pork",
+            "prices": [
+                8.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 5,
+            "name": "Shrimp / Beef Lo Mein",
+            "prices": [
+                8.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 6,
+            "name": "Beef / Shrimp / Chicken / Pork with Garlic Sauce",
+            "prices": [
+                8.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 7,
+            "name": "Shrimp / Beef / Chicken / Pork with Brocoli",
+            "prices": [
+                8.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 8,
+            "name": "Chicken with Cashew Nuts",
+            "prices": [
+                8.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 9,
+            "name": "Beef with Mushrooms",
+            "prices": [
+                8.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 10,
+            "name": "Roast Pork / Chicken Lo Mein",
+            "prices": [
+                8.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 11,
+            "name": "Moo Goo Gai Pan",
+            "prices": [
+                8.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 12,
+            "name": "beef with Green Peppers & Tomatos",
+            "prices": [
+                8.00
+            ],
+            "spicy": false
+        }
+    ],
+    "House": [
+        {
+            "id": 1,
+            "name": "General Tao's Chicken",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 2,
+            "name": "Sesame Chicken",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 3,
+            "name": "Pepper Steak",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 4,
+            "name": "Sauteed Brocoli",
+            "prices": [
+                7.00,
+                7.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 5,
+            "name": "Broccoli With Garlic Sauce",
+            "prices": [
+                7.50,
+                8.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 6,
+            "name": "Chicken / Pork with Garlic Sauce",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 7,
+            "name": "Beef with Broccoli",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 8,
+            "name": "Shrimp with Broccoli",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 9,
+            "name": "Chicken / Pork Chow Mein",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 10,
+            "name": "Shrimp / Beef Chow Mein",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 11,
+            "name": "Chicken with Mushrooms",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 12,
+            "name": "Hot and Spicy Chicken / Pork",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 13,
+            "name": "Hot and Spicy Shrimp",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 14,
+            "name": "Hot and Spicy Beef",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 15,
+            "name": "Hunan Beef",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 16,
+            "name": "Kung Po Chicken",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 17,
+            "name": "Kung Po Shrimp",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 18,
+            "name": "Chicken with Garlic Sauce",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 19,
+            "name": "Shrimp with Garlic Sauce",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 20,
+            "name": "Chicken with Bok Choy",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 21,
+            "name": "Shrimp Egg Foo Young",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": false,
+            "pricesAmount": 2
+        },
+        {
+            "id": 22,
+            "name": "Mixed Vegetables with Pork",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 23,
+            "name": "Mixed Vegetables with Beef",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 24,
+            "name": "Mixed Vegetables with Shrimp",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 25,
+            "name": "Mixed Vegetables with Chicken",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 26,
+            "name": "Boneless Spare Ribs",
+            "prices": [
+                9.50,
+                10.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 27,
+            "name": "Beef with Mushroom",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 28,
+            "name": "Chicken Lo Mein",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 29,
+            "name": "Cashew Nut Chicken / Beef",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 30,
+            "name": "Shrimp and Lobster Sauce",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 31,
+            "name": "Sweet and Sour Chicken",
+            "prices": [
+                8.50,
+                9.00
+            ],
+            "spicy": false
+        }
+    ],
+    "Specialities": [
+        {
+            "id": 1,
+            "name": "Fried Chicken Wings (4)",
+            "prices": [
+                6.00,
+                8.00,
+                8.50,
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 2,
+            "name": "Honey Chicken Wings (4)",
+            "prices": [
+                7.00,
+                9.00,
+                9.50,
+                10.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 3,
+            "name": "Lemon Pepper Wings (4)",
+            "prices": [
+                7.00,
+                9.00,
+                9.50,
+                10.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 4,
+            "name": "BBQ Chicken Wings (6 Pieces)",
+            "prices": [
+                6.00,
+                8.00,
+                8.50,
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 5,
+            "name": "Chicken Wings with Garlic Sauce (4)",
+            "prices": [
+                7.00,
+                9.00,
+                9.50,
+                10.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 6,
+            "name": "Fried Hot Chicken Wings (4)",
+            "prices": [
+                7.00,
+                9.00,
+                9.50,
+                10.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 7,
+            "name": "Chicken Fingers (4)",
+            "prices": [
+                6.00,
+                8.00,
+                8.50,
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 8,
+            "name": "Fried Chicken Gizzards (Pint)",
+            "prices": [
+                6.00,
+                8.00,
+                8.50,
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 9,
+            "name": "Fried Chicken Nuggets (10)",
+            "prices": [
+                6.00,
+                8.00,
+                8.50,
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 10,
+            "name": "Fried Jumbo Shrimp (4)",
+            "prices": [
+                6.00,
+                8.00,
+                8.50,
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 11,
+            "name": "Fried Shrimp Basket (18)",
+            "prices": [
+                6.00,
+                8.00,
+                9.00,
+                9.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 12,
+            "name": "Fried Seafood Platter (1 Fish, 5 Scallops, 5 Shrimps)",
+            "prices": [
+                6.00,
+                8.00,
+                9.00,
+                9.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 13,
+            "name": "Fried Crab Sticks (4)",
+            "prices": [
+                5.00,
+                7.00,
+                8.00,
+                8.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 14,
+            "name": "Fried Pork Chops (2)",
+            "prices": [
+                5.00,
+                7.00,
+                8.00,
+                8.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 15,
+            "name": "Fried Chicken Wings (4)",
+            "prices": [
+                5.00,
+                7.00,
+                8.00,
+                8.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 16,
+            "name": "Fried Spare Rib Tips (Pint)",
+            "prices": [
+                5.00,
+                7.00,
+                8.00,
+                8.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 17,
+            "name": "Fried Fish (2)",
+            "prices": [
+                5.00,
+                7.00,
+                8.00,
+                8.50
+            ],
+            "spicy": false
+        }
+    ],
+    "Combinations": [
+        {
+            "id": 1,
+            "name": "BBQ Bones Spare Ribs",
+            "prices": [
+                11.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 2,
+            "name": "Beef / Shrimp / Pork / Chicken with Brocoli",
+            "prices": [
+                10.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 3,
+            "name": "Beef / Shrimp / Pork / Chicken Lo Mein",
+            "prices": [
+                10.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 4,
+            "name": "Beef / Shrimp / Chicken Boy Choy",
+            "prices": [
+                10.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 5,
+            "name": "Beef / Shrimp / Pork / Chicken Chow Mein",
+            "prices": [
+                10.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 6,
+            "name": "Chicken with Mushrooms",
+            "prices": [
+                10.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 7,
+            "name": "Pepper Steak with Onions",
+            "prices": [
+                10.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 8,
+            "name": "Beef / Shrimp / Pork / Chicken Egg Foo Young",
+            "prices": [
+                10.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 9,
+            "name": "General Tso's / Seasame Chicken",
+            "prices": [
+                10.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 10,
+            "name": "Shrimp and Lobster Sauce",
+            "prices": [
+                10.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 11,
+            "name": "Sweet & Sour Pork / Chicken",
+            "prices": [
+                10.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 12,
+            "name": "Beef / Shrimp / Pork / Chicken with Mixed Vegtables",
+            "prices": [
+                10.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 13,
+            "name": "Hot and Spicy Beef / Shrimp / Pork / Chicken",
+            "prices": [
+                10.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 14,
+            "name": "Curry Beef / Chicken",
+            "prices": [
+                10.00
+            ],
+            "spicy": true
+        }
+    ],
+    "Suggestions": [
+        {
+            "id": 1,
+            "name": "Seasame Chicken",
+            "prices": [
+                14.50
+            ],
+            "spicy": true
+        },
+        {
+            "id": 2,
+            "name": "Orange Beef",
+            "prices": [
+                15.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 3,
+            "name": "General Tso's Chicken",
+            "prices": [
+                14.50
+            ],
+            "spicy": true
+        },
+        {
+            "id": 4,
+            "name": "Seafood Delight",
+            "prices": [
+                16.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 5,
+            "name": "Four Seasons",
+            "prices": [
+                14.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 6,
+            "name": "Happy Family",
+            "prices": [
+                15.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 7,
+            "name": "Triple Delight",
+            "prices": [
+                14.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 8,
+            "name": "Beef with Scallops",
+            "prices": [
+                15.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 9,
+            "name": "Hot and Spicy Pork / Chicken",
+            "prices": [
+                14.50
+            ],
+            "spicy": true
+        },
+        {
+            "id": 10,
+            "name": "Shrimp & Scallops with Garlic Sauce",
+            "prices": [
+                16.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 11,
+            "name": "Seasame Jumbo Shrimp",
+            "prices": [
+                15.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 12,
+            "name": "Orange Chicken",
+            "prices": [
+                14.50
+            ],
+            "spicy": true
+        },
+        {
+            "id": 13,
+            "name": "Szechuan Shrimp / Chicken ",
+            "prices": [
+                14.50
+            ],
+            "spicy": true
+        },
+        {
+            "id": 14,
+            "name": "Chicken with Cashew Nuts",
+            "prices": [
+                14.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 15,
+            "name": "Shrimp with Cashew Nuts",
+            "prices": [
+                14.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 16,
+            "name": "Kung Po Shrimp / Chicken",
+            "prices": [
+                14.50
+            ],
+            "spicy": true
+        },
+        {
+            "id": 17,
+            "name": "Beef / Chicken / Shrimp with Garlic Sauce",
+            "prices": [
+                14.50
+            ],
+            "spicy": true
+        },
+        {
+            "id": 18,
+            "name": "Scallops with Garlic Sauce",
+            "prices": [
+                15.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 19,
+            "name": "Hunan Beef / Chicken / Pork / Shrimp",
+            "prices": [
+                14.50
+            ],
+            "spicy": true
+        },
+        {
+            "id": 20,
+            "name": "Hot and Spicy Beef / Shrimp",
+            "prices": [
+                14.50
+            ],
+            "spicy": true
+        },
+        {
+            "id": 21,
+            "name": "Mongolian Beef",
+            "prices": [
+                15.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 22,
+            "name": "Dragon & Phoenix",
+            "prices": [
+                16.00
+            ],
+            "spicy": true
+        }
+    ],
+    "Appetizers": [
+        {
+            "id": 1,
+            "name": "Steam / Fried Dumplings (8)",
+            "prices": [
+                7.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 2,
+            "name": "Chicken on Skewers (each)",
+            "prices": [
+                2.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 3,
+            "name": "Shrimp on Skewers (each)",
+            "prices": [
+                1.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 4,
+            "name": "Pizza Rolls (each)",
+            "prices": [
+                2.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 5,
+            "name": "Roasted Pork Egg Roll (each)",
+            "prices": [
+                2.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 6,
+            "name": "Shrimp Egg Roll (each)",
+            "prices": [
+                2.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 7,
+            "name": "Cheese Steak Egg Roll (each)",
+            "prices": [
+                2.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 8,
+            "name": "Fantail Shrimp (1)",
+            "prices": [
+                2.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 9,
+            "name": "Cheese Crab Meat Wonton  (8)",
+            "prices": [
+                6.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 10,
+            "name": "French Fries",
+            "prices": [
+                2.00,
+                4.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 11,
+            "name": "Fried Wonton (10)",
+            "prices": [
+                5.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 12,
+            "name": "Onion Rings (10)",
+            "prices": [
+                2.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 13,
+            "name": "Boneless Spare Ribs",
+            "prices": [
+                8.00,
+                15.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 14,
+            "name": "Fried Plantain",
+            "prices": [
+                3.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 15,
+            "name": "Spring Roll (2)",
+            "prices": [
+                4.00
+            ],
+            "spicy": false
+        }
+    ],
+    "Soups": [
+        {
+            "id": 1,
+            "name": "Wonton Soup",
+            "prices": [
+                3.00,
+                6.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 2,
+            "name": "Egg Drop Soup",
+            "prices": [
+                3.00,
+                6.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 3,
+            "name": "Wonton Egg Drop Soup",
+            "prices": [
+                3.75,
+                6.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 4,
+            "name": "Chicken Rice Soup",
+            "prices": [
+                3.00,
+                6.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 5,
+            "name": "Chicken Noodle Soup",
+            "prices": [
+                3.00,
+                6.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 6,
+            "name": "Bean Cured Vegetable Soup",
+            "prices": [
+                3.75,
+                7.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 7,
+            "name": "Hot & Spicy Soup",
+            "prices": [
+                4.00,
+                8.00
+            ],
+            "spicy": true
+        }
+    ],
+    "Rice": [
+        {
+            "id": 1,
+            "name": "Beef Fried Rice",
+            "prices": [
+                6.00,
+                11.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 2,
+            "name": "Chicken Fried Rice",
+            "prices": [
+                6.00,
+                11.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 3,
+            "name": "Roasted Pork Fried Rice",
+            "prices": [
+                6.00,
+                11.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 4,
+            "name": "Shrimp Fried Rice",
+            "prices": [
+                6.00,
+                11.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 5,
+            "name": "Vegetable Fried Rice",
+            "prices": [
+                5.00,
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 6,
+            "name": "House Special Fried Rice",
+            "prices": [
+                7.00,
+                12.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 7,
+            "name": "Loster Fried Rice",
+            "prices": [
+                7.00,
+                12.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 8,
+            "name": "Regular Fried Rice",
+            "prices": [
+                4.00,
+                7.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 9,
+            "name": "Imitation Crab Fried Rice",
+            "prices": [
+                6.00,
+                11.00
+            ],
+            "spicy": false
+        }
+    ],
+    "Broccoli": [
+        {
+            "id": 1,
+            "name": "Beef and Broccoli",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 2,
+            "name": "Chicken and Broccoli",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 3,
+            "name": "Shrimp and Broccoli",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 4,
+            "name": "Roasted Pork and Broccoli",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 5,
+            "name": "Sauteed Brocoli",
+            "prices": [
+                6.00,
+                11.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 6,
+            "name": "Lobster with Broccoli",
+            "prices": [
+                8.00,
+                15.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 7,
+            "name": "Mixed Vegetables with Garlic Sauce",
+            "prices": [
+                6.50,
+                11.50
+            ],
+            "spicy": true
+        },
+        {
+            "id": 8,
+            "name": "Mixed Chinese Vegetables",
+            "prices": [
+                6.50,
+                11.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 9,
+            "name": "Sauteed Brocoli with Snow Peas",
+            "prices": [
+                6.50,
+                11.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 10,
+            "name": "Buddha's Delight",
+            "prices": [
+                7.25,
+                12.50
+            ],
+            "spicy": false
+        }
+    ],
+    "ChopSuey": [
+        {
+            "id": 1,
+            "name": "Chop Suey with Beef",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 2,
+            "name": "Chop Suey with White Meat Chicken",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 3,
+            "name": "Chop Suey with Roasted Pork",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 4,
+            "name": "Chop Suey with Shrimp",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 5,
+            "name": "Chop Suey with Vegetables",
+            "prices": [
+                6.00,
+                9.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 6,
+            "name": "House Special Chop Suey",
+            "prices": [
+                8.50,
+                14.75
+            ],
+            "spicy": false
+        },
+        {
+            "id": 7,
+            "name": "Chop Suey with Lobster",
+            "prices": [
+                8.50,
+                14.75
+            ],
+            "spicy": false
+        }
+    ],
+    "ChowMein": [
+        {
+            "id": 1,
+            "name": "Chow Mein with Beef",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 2,
+            "name": "Chow Mein with White Meat Chicken",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 3,
+            "name": "Chow Mein with Roasted Pork",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 4,
+            "name": "Chow Mein with Shrimp",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 5,
+            "name": "Chow Mein with Vegetables",
+            "prices": [
+                6.00,
+                9.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 6,
+            "name": "House Special Chow Mein",
+            "prices": [
+                8.50,
+                14.75
+            ],
+            "spicy": false
+        },
+        {
+            "id": 7,
+            "name": "Chow Mein with Lobster",
+            "prices": [
+                8.50,
+                14.75
+            ],
+            "spicy": false
+        }
+    ],
+    "LoMien": [
+        {
+            "id": 1,
+            "name": "Beef Lo Mien",
+            "prices": [
+                6.50,
+                12.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 2,
+            "name": "White Meat Chicken Lo Mein",
+            "prices": [
+                6.50,
+                12.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 3,
+            "name": "Roast Pork Lo Mein",
+            "prices": [
+                6.50,
+                12.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 4,
+            "name": "Shrimp Lo Mein",
+            "prices": [
+                6.50,
+                12.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 5,
+            "name": "Vegetable Lo Mein",
+            "prices": [
+                6.00,
+                10.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 6,
+            "name": "House Special Lo Mein",
+            "prices": [
+                7.25,
+                13.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 7,
+            "name": "Lobster Lo Mien",
+            "prices": [
+                7.25,
+                13.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 8,
+            "name": "Imitation Crab Meat Lo Mein",
+            "prices": [
+                6.50,
+                12.00
+            ],
+            "spicy": false
+        }
+    ],
+    "EggFooYoung":[
+        {
+            "id": 1,
+            "name": "Beef Egg Foo Young",
+            "prices": [
+                11.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 2,
+            "name": "White Meat Chicken Egg Foo Young",
+            "prices": [
+                11.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 3,
+            "name": "Roast Pork Egg Foo Young",
+            "prices": [
+                11.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 4,
+            "name": "Shrimp Egg Foo Young",
+            "prices": [
+                11.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 5,
+            "name": "Vegetable Egg Foo Young",
+            "prices": [
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 6,
+            "name": "Lobster Egg Foo Young",
+            "prices": [
+                12.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 7,
+            "name": "House Special Egg Foo Young",
+            "prices": [
+                12.00
+            ],
+            "spicy": false
+        }
+    ],
+    "YatGatMien":[
+        {
+            "id": 1,
+            "name": "Beef Yat Gat Mien",
+            "prices": [
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 2,
+            "name": "White Chicken Meat Yat Gat Mien",
+            "prices": [
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 3,
+            "name": "Roast Pork Yat Gat Mein",
+            "prices": [
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 4,
+            "name": "Shrimp Yat Gat Mein",
+            "prices": [
+                9.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 5,
+            "name": "Plain Yat Gat Mien",
+            "prices": [
+                6.75
+            ],
+            "spicy": false
+        },
+        {
+            "id": 6,
+            "name": "Vegetable Yat Gat Mien",
+            "prices": [
+                7.75
+            ],
+            "spicy": false
+        },
+        {
+            "id": 7,
+            "name": "House Special Yat Gat Mien",
+            "prices": [
+                10.00
+            ],
+            "spicy": false
+        }
+    ],
+    "ChowMaiFun":[
+        {
+            "id": 1,
+            "name": "Beef Chow Mai Fun",
+            "prices": [
+                12.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 2,
+            "name": "White Meat Chicken Chow Mai Fun",
+            "prices": [
+                12.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 3,
+            "name": "Roast Pork Chow Mai Fun",
+            "prices": [
+                12.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 4,
+            "name": "Shrimp Chow Mai Fun",
+            "prices": [
+                12.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 5,
+            "name": "House Special Chow Mai Fun",
+            "prices": [
+                12.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 6,
+            "name": "Imitation Crab Chow Mai Fun",
+            "prices": [
+                12.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 7,
+            "name": "Seafood Chow Mai Fun",
+            "prices": [
+                13.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 8,
+            "name": "Singapore Chow Mai Fun",
+            "prices": [
+                12.50
+            ],
+            "spicy": true
+        }
+    ],
+    "Sweet&Sour":[
+        {
+            "id": 1,
+            "name": "Sweet and Sour Chicken",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 2,
+            "name": "Sweet and Sour Pork",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 3,
+            "name": "Sweet and Sour Shrimp",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        } 
+    ],
+    "Beef":[
+        {
+            "id": 1,
+            "name": "Pepper Steak with Onions",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 2,
+            "name": "Beef with Bean Curd",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 3,
+            "name": "Beef with Black Bean Sauce",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 4,
+            "name": "Beef with Bok Choy",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 5,
+            "name": "Beef with Mushrooms",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 6,
+            "name": "Beef with Peppers and Tomatos",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 7,
+            "name": "Beef with Snow Peas",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 8,
+            "name": "Curry Beef with Onions",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 9,
+            "name": "Mixed vegetables with Beef ",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": true
+        }
+    ],
+    "Chicken" :[
+        {
+            "id": 1,
+            "name": "Chicken with Black Bean Sauce",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 2,
+            "name": "Chicken with Oyster Sauce",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 3,
+            "name": "Chicken with Peppers and Tomatos",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 4,
+            "name": "Chicken with Mixed Vegetables",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 5,
+            "name": "Chicken with Mushrooms",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 6,
+            "name": "Curry Chicken with Onions",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 7,
+            "name": "Chicken with Snow Peas",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 8,
+            "name": "Chicken with Bean Curd",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        }
+    ],
+    "Pork" :[
+        {
+            "id": 1,
+            "name": "Roast Pork with Bean Curd",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 2,
+            "name": "Roast Pork with Onions",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 3,
+            "name": "Roast Pork with Mushrooms",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 4,
+            "name": "Roast Pork with Peppers & Tomatos",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 5,
+            "name": "Roast Pork with Snow Peas",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 6,
+            "name": "Rib Tips with Black Bean Sauce",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 7,
+            "name": "Roast Pork with Mixed Vegetables",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": true
+        }
+    ],
+    "Seafood":[
+        {
+            "id": 1,
+            "name": "Shrimp with Lobster Sauce",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 2,
+            "name": "Shrimp with Bean Curd",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 3,
+            "name": "Shrimp with Mushrooms Black Bean Sauce",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 4,
+            "name": "Shrimp with Snow Peas",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 5,
+            "name": "Shrimp with Mushrooms",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 6,
+            "name": "Shrimp with Peppers and Tomatos",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": true
+        },
+        {
+            "id": 7,
+            "name": "Curry Shrimp with Onions",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": true
+        }
+    ],
+    "SideOrders":[
+        {
+            "id": 1,
+            "name": "Pineapple Chunks",
+            "prices": [
+                2.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 2,
+            "name": "Jasmine Rice",
+            "prices": [
+                2.50,
+                5.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 3,
+            "name": "Fried Noodles",
+            "prices": [
+                0.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 4,
+            "name": "Gravy",
+            "prices": [
+                1.50,
+                3.00,
+                6.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 5,
+            "name": "Homemade Drinks",
+            "prices": [
+                2.00
+            ],
+            "spicy": false
+        },
+        {
+            "id": 6,
+            "name": "2 ounce Sauces (Cocktail, BBQ, Dumpling, Sweet & Sour)",
+            "prices": [
+                0.50
+            ],
+            "spicy": false
+        },
+        {
+            "id": 7,
+            "name": "Roast Pork with Mixed Vegetables",
+            "prices": [
+                7.50,
+                14.00
+            ],
+            "spicy": false
+        }
+    ]
+}
