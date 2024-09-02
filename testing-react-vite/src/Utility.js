@@ -22,7 +22,7 @@ export const lunchSpecialAvailability = (startTime, endTime) =>{
     let currentInfo = getCurrentTimeHelper();
 
     let tempTime = convertTimeHelper(currentInfo[1])
-    return convertTimeHelper(startTime) < tempTime && convertTimeHelper(endTime) > tempTime;
+    return convertTimeHelper(startTime) <= tempTime && convertTimeHelper(endTime) > tempTime;
 }
 
 const getCurrentTimeHelper = () => {

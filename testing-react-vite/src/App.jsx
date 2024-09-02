@@ -15,6 +15,8 @@ const startTime = "1:30 PM";
 const endTime = "11:30 PM";
 const lunchMenuEnd = "3:00 PM";
 
+const sections = ["Lunch Special", "House Special", "Specialties", "Combination Platters", "Chief Suggestions", "Appetizers", "Soup", "Fried Rice", "Brocolli", "Chop Suey", "Chow Mien", "Lo Mien", "Egg Foo Young", "Yat Mai Fun", "Beef", "Chicken", "Pork", "Seafood", "Side Orders"]
+
 export const DaysOpen = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', "Friday", 'Saturday'];
 
 function App() {
@@ -25,8 +27,8 @@ function App() {
 
   return (
     <>
-      <Navbar startTime={startTime} endTime={endTime} />
-      <GeneralInformation startTime={startTime} endTime={endTime} />
+      <Navbar startTime={startTime} endTime={endTime} sections = {sections}/>
+      <GeneralInformation startTime={startTime} endTime={endTime}/>
       <PopularItems />
       <LunchSpecial startTime={startTime} endTime={lunchMenuEnd} tempData={tempData.lunch} USDollar={USDollar} />
       <SectionCard title = "House Special" options={["Served with White Rice or Pork or Chicken Fried Rice","Served with Beef or Shrimp Friend Rice"]} tempData={tempData.House} USDollar={USDollar} idTag = "H"/>

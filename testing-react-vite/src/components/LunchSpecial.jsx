@@ -8,7 +8,7 @@ const LunchSpecial = ({ startTime, endTime, tempData, USDollar }) => {
   return (
     <div className={styles.sectionWrapper}>
       <div className={styles.sectionTitleWrapper}>
-        <h1 className={styles.sectionTitle}>Lunch Special</h1>
+        <h1 className={styles.sectionTitle} href={"#Lunch-Special"}>Lunch Special</h1>
         <h3 className={`${styles.sectionMiddleSubtitle} ${available?styles.available:styles.notAvailable}`}>{`${available ? `Available until ${endTime}` : `Not Available until ${getNextDayOpen(startTime)} ${startTime}`}`}</h3>
         <h3 className={`${styles.sectionSubtitles} ${styles.sectionLastSubtitle}`}>Serves with pork fried rice and egg roll</h3>
       </div>
