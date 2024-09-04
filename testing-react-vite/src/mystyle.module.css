@@ -1,3 +1,33 @@
+/*----------------Price Checker Related CSS --------------------*/
+.priceCheckerOutterWrapper{
+  border: solid 2.5px black;
+  width:50%;
+}
+
+.priceCheckerItemWrapper{
+
+}
+
+.priceCheckerItemWrapper:hover{
+  background:gray;
+}
+
+.priceCheckerItem{
+  display:inline-flex;
+}
+
+.priceCheckerItemName{
+  width:85%;
+}
+
+.priceCheckerItemPrice{
+  width:15%;
+}
+
+.priceCheckerFinalPriceWrapper{
+  border-top: solid 2.5px black;
+}
+
 /*--------------Dropdown Related CSS-----------------------------*/
 
 .dropdownWrapper {
