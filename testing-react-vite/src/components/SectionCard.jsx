@@ -2,7 +2,7 @@ import React from 'react'
 import MenuItemCardFlex from './MenuItemCardFlex'
 import styles from '../mystyle.module.css'
 
-const SectionCard = ({title, subtitle = false, options = ["Pt", "Qt"], tempData, USDollar, idTag = "I", Large = false, sendItemSelectionFuntionWrapper}) => {
+const SectionCard = ({title, subtitle = false, options = ["Pt", "Qt"], tempData, idTag = "I", Large = false, sendSelectedItem}) => {
     return (
         <div className={styles.sectionWrapper}>
           <div className={styles.sectionTitleWrapper}>
@@ -10,8 +10,8 @@ const SectionCard = ({title, subtitle = false, options = ["Pt", "Qt"], tempData,
             {subtitle?<h3 className={`${styles.sectionSubtitles} ${styles.sectionLastSubtitle}`}>{subtitle}</h3>:""}
           </div>
           <div className={styles.sectionCardContainer}>
-            {tempData.map((item) => (
-              <MenuItemCardFlex key={`${title.replace(" ","-")}-${item.id}`} item={item} USDollar={USDollar} idTag = {idTag} Large = {Large} sendItemSelectionFuntionWrapper = {sendItemSelectionFuntionWrapper}/>
+            {tempData.map((item,index) => (
+              <MenuItemCardFlex key={`${title.replace(" ","-")}-${index}`} item={item} idTag = {idTag} Large = {Large} sendSelectedItem = {sendSelectedItem}/>
             ))}
           </div>
         </div>

@@ -2,6 +2,13 @@
 .priceCheckerOutterWrapper{
   border: solid 2.5px black;
   width:50%;
+  position: absolute;
+  z-index: 10;
+  background-color: white;
+  resize: horizontal;
+  overflow: hidden;
+  min-width: 400px;
+  max-width: 98%;
 }
 
 .priceCheckerItemWrapper{
